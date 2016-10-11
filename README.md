@@ -6,4 +6,4 @@ This is the project tracking space for [Agile Government Leadership](http://www.
 
 Anyone with experience in agile government is welcome to work on projects and help us come up with new ideas! To begin, please start here:
 
-[Instructions for working with AGL on GitHub](http://www.agilegovleaders.org/working-agl-github/)
+# [Instructions for working with AGL on GitHub](http://www.agilegovleaders.org/working-agl-github/)
