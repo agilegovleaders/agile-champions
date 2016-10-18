@@ -2,7 +2,7 @@
 
 This is the project tracking space for [Agile Government Leadership](http://www.agilegovleaders.org/). 
 
-[Agile Champions](http://www.agilegovleaders.org/about/working-group/) are those who want to contribute to our efforts to bring agile to government.
+[Agile Champions](http://www.agilegovleaders.org/about/agile-champions/) are those who want to contribute to our efforts to bring agile to government.
 
 Anyone with experience in agile government is welcome to work on projects and help us come up with new ideas! To begin, please start here:
 
