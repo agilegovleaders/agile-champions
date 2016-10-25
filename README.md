@@ -34,8 +34,8 @@ If you know that your idea belongs in a particular project, you can move it into
 
 Once you have identified or added a task or project from the list that you want to work on, it’s time to start!
 
-To discuss next steps and talk to others who may want to collaborate with you, plan to attend the Agile Champions meeting, held every Tuesday at 9:30PT/12:30ET (via Google Hangouts). Contact [Elizabeth Raley](mailto:elizabeth.raley@civicactions.com) for a meeting invite.
+To discuss next steps and talk to others who may want to collaborate with you, plan to attend the Agile Champions meeting, held every Tuesday at 9:30PT/12:30ET (via Google Hangouts). Contact Elizabeth Raley (elizabeth.raley@civicactions.com) for a meeting invite.
 
 We are counting on Agile Champions to move the work of AGL forward in bringing agile to government. In the spirit of an agile stand-up, you are encouraged to attend weekly meetings while your project is in progress.
 
-**Need help?** You can [contact us](mailto:info@agilegovleaders.org) anytime for help getting started.
+**Need help?** You can [contact us](http://www.agilegovleaders.org/contact/) anytime for help getting started.
